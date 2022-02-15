@@ -1,4 +1,4 @@
-class Tendril
+class tendril
 {
   public final static int SEG_LENGTH = 4; //length of each segment in the tendril
   private int myNumSegments, myX, myY;
@@ -10,7 +10,7 @@ class Tendril
    theta is tendril starting angle in radians 
    x, y  is the starting (x,y) coordinate
    */
-  public Tendril(int len, double theta, int x, int y)
+  public tendril(int len, double theta, int x, int y)
   {
     //your code here
   }
